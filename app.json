@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "tesla_clone",
+    "slug": "tesla_clone",
+    "version": "1.0.0",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/img/icon.png",
+    "web": {
+      "favicon": "./assets/img/favicon.svg"
+    }
+  }
+}

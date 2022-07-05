@@ -1,7 +1,8 @@
 export default [
   {
     name: 'Model S',
-    txt: 'Starting at $69,420',
+    txt: 'Order Online for',
+    txtBtn: 'TouchLess Delivery',
     image: require('./img/ModelS.jpeg')
   },
   {

@@ -1,25 +1,25 @@
 export default [
   {
     name: 'Model S',
-    tagline: 'Starting at $69,420',
-    image: require('../../assets/images/ModelS.jpeg')
+    txt: 'Starting at $69,420',
+    image: require('./img/ModelS.jpeg')
   },
   {
     name: 'Model 3',
-    tagline: 'Order Online for',
-    taglineCTA: 'TouchLess Delivery',
-    image: require('../../assets/images/Model3.jpeg')
+    txt: 'Order Online for',
+    txtBtn: 'TouchLess Delivery',
+    image: require('./img/Model3.jpeg')
   },
   {
     name: 'Model X',
-    tagline: 'Order Online for',
-    taglineCTA: 'TouchLess Delivery',
-    image: require('../../assets/images/ModelX.jpeg')
+    txt: 'Order Online for',
+    txtBtn: 'TouchLess Delivery',
+    image: require('./img/ModelX.jpeg')
   },
   {
     name: 'Model Y',
-    tagline: 'Order Online for',
-    taglineCTA: 'TouchLess Delivery',
-    image: require('../../assets/images/ModelY.jpeg')
+    txt: 'Order Online for',
+    txtBtn: 'TouchLess Delivery',
+    image: require('./img/ModelY.jpeg')
   }
 ]

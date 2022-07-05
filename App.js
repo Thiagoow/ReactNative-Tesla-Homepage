@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components/native'
-import { Text } from 'react-native'
+import Header from './components/Header/Header'
 
 const Container = styled.View`
   flex: 1;
@@ -12,7 +12,7 @@ const Container = styled.View`
 export default function App() {
   return (
     <Container>
-      <Text>Hello world :D</Text>
+      <Header />
     </Container>
   )
 }

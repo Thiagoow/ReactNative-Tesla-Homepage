@@ -2,20 +2,20 @@ import styled from 'styled-components/native'
 
 export const Container = styled.View`
   position: absolute;
-  top: 50px;
   z-index: 100;
+  top: 3rem;
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  padding: 0 20px;
+  padding: 0 1.25rem;
 `
 
 export const Logo = styled.Image`
-  width: 100px;
-  height: 20px;
+  width: 6rem;
+  height: 1.25rem;
 `
 
 export const Menu = styled.Image`
-  width: 25px;
-  height: 25px;
+  width: 1.5rem;
+  height: 1.5rem;
 `
